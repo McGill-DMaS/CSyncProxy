@@ -1,0 +1,30 @@
+Files: test_crossdomains/paths_0_recurring_ids2.txt and cookietest_0.txt
+Total unique IDs in crossdomains file cookietest_0.txt: 678
+Total unique IDs found in cookies: 44
+Files: test_crossdomains/paths_1_recurring_ids2.txt and cookietest_1.txt
+Total unique IDs in crossdomains file cookietest_1.txt: 602
+Total unique IDs found in cookies: 48
+Files: test_crossdomains/paths_2_recurring_ids2.txt and cookietest_2.txt
+Total unique IDs in crossdomains file cookietest_2.txt: 828
+Total unique IDs found in cookies: 50
+Files: test_crossdomains/paths_3_recurring_ids2.txt and cookietest_3.txt
+Total unique IDs in crossdomains file cookietest_3.txt: 693
+Total unique IDs found in cookies: 54
+Files: test_crossdomains/paths_4_recurring_ids2.txt and cookietest_4.txt
+Total unique IDs in crossdomains file cookietest_4.txt: 546
+Total unique IDs found in cookies: 46
+Files: test_crossdomains/paths_6_recurring_ids2.txt and cookietest_6.txt
+Total unique IDs in crossdomains file cookietest_6.txt: 848
+Total unique IDs found in cookies: 50
+Files: test_crossdomains/paths_7_recurring_ids2.txt and cookietest_7.txt
+Total unique IDs in crossdomains file cookietest_7.txt: 651
+Total unique IDs found in cookies: 41
+Files: test_crossdomains/paths_8_recurring_ids2.txt and cookietest_8.txt
+Total unique IDs in crossdomains file cookietest_8.txt: 645
+Total unique IDs found in cookies: 33
+Files: test_crossdomains/paths_9_recurring_ids2.txt and cookietest_9.txt
+Total unique IDs in crossdomains file cookietest_9.txt: 633
+Total unique IDs found in cookies: 40
+Files: test_crossdomains/paths_5_recurring_ids2.txt and cookietest_5.txt
+Total unique IDs in crossdomains file cookietest_5.txt: 561
+Total unique IDs found in cookies: 38
