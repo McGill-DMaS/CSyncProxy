@@ -1,2 +1,2 @@
-# MITMproxy
-a cookie anonymizing man-in-the-middle (MITM) proxy
+# CSyncProxy
+Differentially prviate anonymization proxy for cookie synchronization
